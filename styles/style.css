@@ -264,11 +264,6 @@ body {
   color: var(--dark-color);
 }
 
-.month {
-  font-size: 28px;
-  line-height: 2;
-}
-
 .web-plan-discription {
   font-family: var(--second-font-family);
   font-weight: 400;
