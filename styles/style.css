@@ -234,6 +234,7 @@ body {
   background-color: var(--orange-color);
   box-shadow: 0px 32px 34px rgba(255, 112, 59, 0.317827);
   transition: 500ms;
+  cursor: pointer;
 }
 
 .web-plan:hover p {
